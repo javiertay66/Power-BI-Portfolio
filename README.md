@@ -40,8 +40,11 @@ A Power-BI dashboard analyzing e-commerce sales data from January to August 2024
 
 ## Project by
 Javier Tay Yu Xiang
+
 https://www.linkedin.com/in/javier-tay-a89a3b202/
+
 Year 2 Economics and Data Science Student, NTU  
+
 Aspiring Data Analyst
 
 ## Acknowledgments
