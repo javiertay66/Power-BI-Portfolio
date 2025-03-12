@@ -15,9 +15,6 @@ A Power BI dashboard summarizing sales performance for an online marketplace.
 - Electronics led orders in Q3 2023.
 - North America accounts for 40% of sales.
 
-## Screenshots
-![Dashboard](Dashboard_Screenshot.png)
 
-## Files
-- `.pbix`: Power BI file
-- `.csv`: Source dataset
+
+
