@@ -8,7 +8,7 @@ A Power-BI dashboard analyzing e-commerce sales data from January to August 2024
 
 ## Features
 - **Area Chart: Analyzing Total Revenue over Time**
-  - Displays revenue trends from January (~$14.5K) to August (~$7.28K).
+  - Displays revenue trends from January to August 
 - **Bar Chart: Top 5 Products Category Sold**
   - Highlights units sold by category: Clothing (145), Books (114), Sports (88), Electronics (66), Home Appliances (59).
 - **Pie Chart: Total Revenue by Payment Method**
